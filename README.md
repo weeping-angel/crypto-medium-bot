@@ -67,3 +67,11 @@ For more details, see the following links:
 >>> t.get_chat_id('@yourUserName')
 1234567
 ```
+
+[Medium REST APIs](https://rapidapi.com/nishujain1997.19@gmail.com/api/medium2/)
+
+[Medium APIs - Python Package](github.com/weeping-angel/medium-apis)
+
+```shell
+$ pip install medium-apis
+```
