@@ -12,7 +12,7 @@ For more details, read [How to Leverage Medium for CryptoTrading](https://medium
 
 1. Clone this repository
 
-```console
+```bash
  $ git clone "https://github.com/weeping-angel/crypto-medium-bot.git"
  $ cd crypto-medium-bot
 ```
