@@ -12,7 +12,7 @@ For more details, read [How to Leverage Medium for CryptoTrading](https://medium
 
 1. Clone this repository
 
-```shell
+```console
  $ git clone https://github.com/weeping-angel/crypto-medium-bot.git
  $ cd crypto-medium-bot
 ```
@@ -33,7 +33,7 @@ $ pip install -r requirements.txt
 
 5. Run the bot using following command:
 
-```shell
+```console
 $ python bot.py
 ```
 
@@ -72,6 +72,6 @@ For more details, see the following links:
 
 [Medium APIs - Python Package](https://github.com/weeping-angel/medium-apis)
 
-```shell
+```console
 $ pip install medium-apis
 ```
