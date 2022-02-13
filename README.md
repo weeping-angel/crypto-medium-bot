@@ -19,7 +19,7 @@ For more details, read [How to Leverage Medium for CryptoTrading](https://medium
 
 2. Install the requirements
 
-```shell
+```bash
 $ pip install -r requirements.txt
 ```
 
@@ -33,7 +33,7 @@ $ pip install -r requirements.txt
 
 5. Run the bot using following command:
 
-```console
+```bash
 $ python bot.py
 ```
 
@@ -72,6 +72,6 @@ For more details, see the following links:
 
 [Medium APIs - Python Package](https://github.com/weeping-angel/medium-apis)
 
-```console
+```bash
 $ pip install medium-apis
 ```
