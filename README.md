@@ -73,5 +73,5 @@ For more details, see the following links:
 [Medium APIs - Python Package](https://github.com/weeping-angel/medium-apis)
 
 ```bash
-$ pip install medium-apis
+$ pip install medium-api
 ```

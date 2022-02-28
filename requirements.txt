@@ -1,2 +1,2 @@
-medium-apis==0.2.3
+medium-api==0.2.4
 messages

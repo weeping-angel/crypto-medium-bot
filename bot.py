@@ -4,7 +4,7 @@ from itertools import chain
 
 from config import *
 from messages import TelegramBot
-from medium_apis import Medium
+from medium_api import Medium
 
 
 def run(
