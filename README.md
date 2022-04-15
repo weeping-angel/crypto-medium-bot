@@ -41,7 +41,9 @@ $ python bot.py
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=-MM1C6mb-mc">
-        <img src="https://img.youtube.com/vi/-MM1C6mb-mc/0.jpg" alt="How to get your RapidAPI Key">Watch Video</img>
+        <img src="https://img.youtube.com/vi/-MM1C6mb-mc/0.jpg" alt="How to get your RapidAPI Key" />
+        <br />
+        <span>Watch Video</span>
     </a>
 </p>
 
