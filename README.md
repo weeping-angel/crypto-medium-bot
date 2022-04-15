@@ -39,7 +39,11 @@ $ python bot.py
 
 ## How to get your RapidAPI Key
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-MM1C6mb-mc/0.jpg)](https://www.youtube.com/watch?v=-MM1C6mb-mc)
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=-MM1C6mb-mc">
+        <img src="https://img.youtube.com/vi/-MM1C6mb-mc/0.jpg" />
+    </a>
+</p>
 
 Steps:
 
