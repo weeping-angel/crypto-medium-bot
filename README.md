@@ -45,9 +45,9 @@ Steps:
 
 1. Sign up on [RapidAPI Platform](https://rapidapi.com/auth/sign-up)
 
-2. Subscribe to [Medium-APIs](https://rapidapi.com/nishujain1997.19@gmail.com/api/medium2/pricing)
+2. Subscribe to [Medium API](http://hub.mediumapi.com/pricing)
 
-3. Go to the API's **Endpoints** tab on the [RapidAPI Hub listing](https://rapidapi.com/nishujain1997.19@gmail.com/api/medium2/) and select the API key from the **X-RapidAPI-Key** dropdown under **Header Parameters** section.
+3. Go to the API's **Endpoints** tab on the [RapidAPI Hub listing](http://hub.mediumapi.com) and select the API key from the **X-RapidAPI-Key** dropdown under **Header Parameters** section.
 
 For more details, see the following links:
 
@@ -70,9 +70,9 @@ For more details, see the following links:
 1234567
 ```
 
-[Medium REST APIs](https://rapidapi.com/nishujain1997.19@gmail.com/api/medium2/)
+[Medium REST API](http://hub.mediumapi.com)
 
-[Medium APIs - Python Package](https://github.com/weeping-angel/medium-apis)
+[Medium API - Python Package](https://github.com/weeping-angel/medium-api)
 
 ```bash
 $ pip install medium-api
